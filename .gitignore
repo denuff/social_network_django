@@ -1,0 +1,16 @@
+*$*
+.ipynb_checkpoints/
+*.csv
+*.db
+*.pyc
+*.pyo
+*.pyd
+env*
+venv/
+*.DS_Store
+.idea*
+local_settings.py
+.mypy_cache/
+docker-compose.override.yml
+.vscode
+!backend/modelwaste/test_files/*.csv
